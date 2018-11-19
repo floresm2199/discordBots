@@ -65,4 +65,4 @@ bot.remove_command('help')
 async def help(ctx):
     embed = discord.Embed(title="The Spanish Inquisition", description="A bot that nobody expects", color=0xeee657)
 
-bot.run('NDg5MTAwODYwMzI5Mjk1ODgy.DpML3Q.FFiJ7OQtpJ2D-ZelTCS-kOrYbbA')
+bot.run('Insert token here')
